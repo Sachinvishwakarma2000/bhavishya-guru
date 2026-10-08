@@ -1,6 +1,9 @@
 # Bhavishya Guru (भविष्य गुरु) 🌟
 ### Vedic Astrology, Kundali, Palmistry & Multi-Dimensional Numerology Oracle
 
+🌐 **Live Website (Free Hosting & Domain):** [https://sachinvishwakarma2000.github.io/bhavishya-guru/](https://sachinvishwakarma2000.github.io/bhavishya-guru/)  
+📁 **GitHub Repository:** [https://github.com/Sachinvishwakarma2000/bhavishya-guru](https://github.com/Sachinvishwakarma2000/bhavishya-guru)
+
 A state-of-the-art Vedic astrology and numerology web application designed with cosmic luxury aesthetics, authentic classical calculation algorithms, interactive diagrams, and holistic remedial guidance.
 
 ---
